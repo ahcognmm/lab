@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState } from "react";
 async function getRandom() {
+  // TODO: change this
   const res = await fetch(`http://localhost:8080/random`);
   return res.text();
 }
