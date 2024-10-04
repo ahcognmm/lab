@@ -2,7 +2,8 @@
 
 Mô tả: Chúng ta có api sinh random số ở folder `api`. Hãy viết Dockerfile cho app này với hướng dẫn chạy ở readme.md
 
-note: Docker image sau khi build ra phải nhẹ nhất có thể.
+Note: Docker image sau khi build ra phải nhẹ nhất có thể.
+
 Hint: Hãy dùng nhiều stage trong Dockerfile.
 
 ## Not the first run
